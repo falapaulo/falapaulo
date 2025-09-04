@@ -61,15 +61,6 @@ Com uma sólida experiência em **coleta, análise e tratamento de dados**, alia
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=falapaulo&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=falapaulo&theme=tokyonight" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falapaulo&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
-
----
-
 ## ✨ Um pouco mais sobre mim
 - 🚀 Sempre buscando novos desafios em **Full Stack, IA e automação**.  
 - 🎯 Foco em entregar soluções escaláveis e de alto impacto.  
